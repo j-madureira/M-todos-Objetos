@@ -7,6 +7,6 @@ var aluno = {
              }
 }
 
-console.log(`aluno: ${aluno.nome}`);
-console.log(`Idade: ${aluno.turma}`);
+console.log(`Aluno: ${aluno.nome}`);
+console.log(`Turma: ${aluno.turma}`);
 console.log(`Nota final: ${aluno.media(aluno.notas[0],aluno.notas[1])}`);
