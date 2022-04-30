@@ -1,0 +1,3 @@
+- Criar um objeto com as propriedades nome e idade e um array com duas notas.
+- Criar um método para calcular essas duas notas.
+
